@@ -45,6 +45,7 @@ body {
 .escola-div-conteudo{
     width: 35%;
     padding: 24px 0;
+    justify-content: center;
 }
 
 
