@@ -26,7 +26,7 @@ body {
 
 .cabecalho-lista-item a{
     text-decoration: none; 
-    color: rgb(105, 190, 227);
+    color: rgba(249, 253, 254, 0.064);
 }
 
 .escola-imagem{
@@ -34,7 +34,7 @@ body {
 }
 
 #escola{
-    background-image: linear-gradient(#2266d3,#88a7dd);
+    background-image: linear-gradient(#1b5fcd92,#9adae6);
     color:rgb(18, 18, 18);
     display: flex;
     justify-content: center;
